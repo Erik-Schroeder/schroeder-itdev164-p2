@@ -3,6 +3,8 @@
 working example of a Gatsby/Stripe client side checkout template I've been working on 
 
 [Orignal Repo](https://github.com/erikthetechhobo/stripe-starter)
+
+
   It creates 3 kinds of products in the gatsby-config.js file. A unlimited stock item, a skud item with inventory and a subscription.
   Each type of product has a button in src/componenets where each makes a static query for the product ID given to it by Stripe
   when gatsby-config.js adds them to the Stripe 'cms'.
